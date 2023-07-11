@@ -1,0 +1,19 @@
+{
+    "name": "alfredoviera/portafolio",
+    "description": "Portafolio",
+    "type": "project",
+    "authors": [
+        {
+            "name": "VieraxD",
+            "email": "vieraalfredoj@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Model\\" : "./models",
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers" 
+        }
+    }
+}
