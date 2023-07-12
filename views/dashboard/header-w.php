@@ -2,7 +2,7 @@
     <div class="headerw">
         
         <div class="imagenw">
-            <img class="imagen-logow" src="/build/img/vierax-logo.png" alt="logo" >
+            <a href="https://www.youtube.com/channel/UCNRRgw_R4atgLjSc1HoHg8Q" target="_blank"><img class="imagen-logow" src="/build/img/vierax-logo.png" alt="logo" ></a>
 
         </div>
 
